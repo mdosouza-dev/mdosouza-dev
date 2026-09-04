@@ -117,21 +117,3 @@ Minha vivência em ambientes corporativos me trouxe forte capacidade analítica,
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 20px;" 
-    src="https://github-readme-stats-one-psi-66.vercel.app/api?username=mdosouza-dev&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="220" 
-      src="https://github-readme-stats-one-psi-66.vercel.app/api/top-langs/?username=mdosouza-dev&theme=tokyonight&locale=pt-br&custom-title=Tecnologias&langs_count=11" 
-  />
-</p>
